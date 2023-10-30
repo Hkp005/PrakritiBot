@@ -1,6 +1,3 @@
 [build]
   command = "python app.py"
   publish = "static"  # Path to the static files
-
-[[plugins]]
-  package = "netlify-plugin-plugin1"
