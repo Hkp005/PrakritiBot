@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Prakriti bot</title>
+        <link rel="stylesheet" type="text/css" href="static\main-style.css">
+    </head>
+    <body>
+        <div class="banner">
+            <div class="navbar">
+                <img src="static\logo.png" class="logo" style="width: 200px; height: auto;">
+                <ul>
+                    <li><a href="#" id="login">Login/Signup</a></li>
+                    <li><a href="#" id="about">About</a></li>
+                </ul>
+            </div>
+            <div class="content">
+                <h1>KNOW YOURSELF !</h1>
+                <p>Unlock the secrets of your inner Prakriti by
+                 embarking on a playful journey<br>through a series of intriguing questions!</p>
+                    <div>
+                    
+                            <button id="chatbot-button"><span></span> Demo</button>
+                        
+                        
+                    </div>
+             </div>
+        </div>
+        <script src="{{ url_for('static', filename='script.js') }}"></script>
+    </body>
+</html>

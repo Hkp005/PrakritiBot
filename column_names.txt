@@ -1,0 +1,14 @@
+Visual_features
+Tactile_features
+Joints
+Eyes
+Nails
+Teeth
+Mouth
+Palm_and_Sole
+Hair
+Voice_assessment
+Sleep_pattern
+Movement_and_Gait
+Diet_and_Lifestyle
+Excretory_products
