@@ -281,7 +281,7 @@ body {
     display: inline-block;
     font-size: 25px;
     white-space: nowrap;
-    padding: 0 5%; /* Adjust the padding to control the scrolling speed */
+    padding: 0 1%; /* Adjust the padding to control the scrolling speed */
     animation: scroll 12s linear infinite; /* Adjust the animation duration as needed */
   }
   
