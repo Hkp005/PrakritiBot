@@ -20,7 +20,7 @@ def home():
 
 @app.route('/chatbot')
 def man():
-    return render_template('chatbot.html')
+    return render_template('chatBot.html')
 
 @app.route('/login')
 def login():
